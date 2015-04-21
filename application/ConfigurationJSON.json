@@ -3,7 +3,7 @@
 
   "DATABASE_HOST" : "127.0.0.1",
 
-  "DATABASE_USERNAME" : "airport_company",
+  "DATABASE_USERNAME" : "root",
   "DATABASE_PASSWORD" : "password",
 
   "DATABASE_NAME" : "airport_company"
